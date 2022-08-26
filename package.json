@@ -1,0 +1,12 @@
+{
+  "name": "leccion1",
+  "version": "1.0.0",
+  "description": "primera leccion open bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raul nuñez",
+  "license": "ISC"
+}
