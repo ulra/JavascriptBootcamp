@@ -24,5 +24,5 @@ class Estudiante {
     }
 }
 
-const estudiante = new Estudiante("Raul", )
+const estudiante = new Estudiante("Raul" )
 console.log(estudiante.obtenDatos())
