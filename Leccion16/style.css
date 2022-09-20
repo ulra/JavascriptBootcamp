@@ -1,0 +1,27 @@
+.seccion{
+    background-color: darkslategray;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.parrafo {
+    background-color: antiquewhite;
+    padding: 1rem;
+    margin: 1 rem;
+}
+
+.parrafo.drag {
+    opacity: 0.5;
+}
+
+.fantasma {
+    width: 340px;
+    height: 340px;
+    background-color: red;
+    position: absolute;
+    left: -100vw;
+}
+
+.papelera {
+    background-color: white;
+}
